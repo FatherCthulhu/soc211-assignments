@@ -1,0 +1,92 @@
+
+Article: Creditor Colleges: Canceling Debts that Surged During COVID-19 for Low-Income Students.
+By Charlie Eaton, Johnathan Glater, Laura Hamilton, and Dalie Jimenez
+
+1. Methodology and Data Source
+
+Methods of estimation used to assess possible consequences that students will encounter from gaining
+institutional debt.
+Data publicly avaiable: https://github.com/HigherEdData/Institutional-Student-Debt-and-Debt-Collections
+
+
+2. Unit of Analysis
+
+Rate of debt collected by CCC students from return to title IV enactment.
+
+
+3. Dealing with Missing Data
+
+Not stated. Presumably listwise deletion.
+
+4. What is Being Used from Resource
+
+------------------------------------------------------------------------------------------------------
+
+Race/ethnicity, data on how many students did the school apply for a return to Title IV waiver in 2020, retention rates, and impact on school revenue.
+
+Article: Do Part-Time Students Benefit from College Promise Programs? Evidence from Cerritos Complete.
+By Mary Rauner and Cameron Sublett, 2022
+
+1. Methodology and Data Source
+
+METHOD
+
+Examine the degree to which students in the Cerritos Complete and the comparison group were descriptively similar or dissimilar. Doing this allows for authors to explore "baseline unconditional differences between Cerritos Complete students and the comparison group and to identify preliminary evidence of the relationship between Cerritos Complete participation and student outcomes" (Rauner and Sublett 2022: 7). This is a comparative analysis, looking at groups of CCC students, to assess if participation in the California College Promise Program is related to student outcomes.
+
+Used a quasi-experimental methods of analysis called Coarsened Exact matching (CEM) (Rauner and Sublett 2022:11). This method is meant to "approximate random assignment by matching students on pre-treatment characteristics in the data" (2022:11).
+
+
+DATA
+Single cohort of first-time Cerritos College students over a four-year period, summer 2016 through summer 2020; also includes outcomes, demographic, and academic information for 3,165 students (514 student participants from Cerritos Complete program and 2,651 students who did not participate in Cerritos Complete with similar demographic and academic characteristics) (Rauner and Sublett 2022:5)
+
+2. Unit of Analysis
+
+OUTCOME MEASURES
+Part-time and full-time enrollment. Credential completion
+
+CONTROL MEASURES
+Percentage of full-time enrollment
+Fee waiver receipt
+GPA
+College English
+College math
+STEM major
+Four-year transfer goal
+
+3. Dealing with Missing Data
+
+Multiple imputation used for: (Rauner and Sublett 2022:11)
+- Restore missing observations
+- Increase statistical power
+- Reduce potential bias stemming from listwise deletion
+
+4. What is Being Used from Resource
+Will use part-time and full-time enrollment measurements, credential completion, percentage of full-time enrollment, and four-year transfer goal measures.
+
+----------------------------------------------------------------------------------------------------------
+
+Article: The California College Promise: A Promise to What, for Whom, and Where?
+By: Cecilia Rios-Aguilar and Austin Lyke, 2020
+
+1. Methodology and Data Source
+
+METHOD
+Policy brief examining publicly available data to highlight frameworks for policy reform to improve the California Promise Program.
+
+DATA
+Information on how CCC's spent their funds.
+CCC Data Mart system, which shows awarded financial aid to students from various sources.
+These include: California College Promise Grants (e.g. former BOG Fee Waivers), other grants (e.g., Cal Grant B); loans; work study; and scholarships. Financial aid from AB 19 funds is reported under broad categories of “California College Promise Grant” programs or “Other grant” sources" (Rios-Aguilar and Lyke 2020:11).
+
+2. Unit of Analysis
+
+Race/ethnicity and rates of fiancial award (US Dollars).
+
+3. Dealing with Missing Data
+
+Unstated. Presumed listwise deletion.
+
+4. What Is Being Used from Resource
+
+Race/ethnicity and rates of financial award (US Dollar)
+
